@@ -1,1 +1,13 @@
 http://masteringionic.com/blog/2018-02-06-dynamically-add-and-remove-form-input-fields-with-ionic/
+
+
+https://www.developer.com/java/how-to-create-database-reports-through-jasperreport.html
+
+
+http://aspiresoftware.in/blog/integrate-jasper-report-with-java-web-app/
+
+https://stackoverflow.com/questions/22792139/how-do-i-generate-reports-in-java
+
+https://www.roseindia.net/answers/viewqa/Java-Beginners/9378-How-to-Create--and-display-Reports-in-Java-with-Database-connectivity.html
+
+https://coderanch.com/t/562873/open-source/generate-dynamic-reports-java
